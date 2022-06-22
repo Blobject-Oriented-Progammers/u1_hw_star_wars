@@ -3,7 +3,7 @@ mkdir star_wars
 # 2. In the star_wars folder, create two new directories: empire and rebellion (This can be done in two commands, but how would you do it in one?)
 mkdir star_wars/empire star_wars/rebellion
 # 3. Inside the empire directory, create a file called darth_vader.txt 
-
+Add some work
 # 4. Use the force (or your echo) to add the text "...heavy breathing..." to the darth_vader.txt file (Don’t remember how to do this? Internet search it!)
 
 # 5. Inside the empire directory, create a file called emperor_palpatine.txt
